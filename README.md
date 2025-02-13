@@ -1,9 +1,14 @@
-# my-learning-space
-# My Learning Journey
-This repository will track my progress in learning software development.
+# My Learning Space
 
-## Goals
-- Learn Python programming
-- Master web development
-- Understand data analysis
-- Get comfortable with Git and GitHub
+## About This Repository
+This is my learning repository where I practice Git and GitHub workflows.
+
+## What I've Learned
+- Git basics (init, clone, status)
+- Working with changes (add, commit, push)
+- Branching strategies
+
+## Currently Learning
+- Working with branches
+- Pull requests
+- Collaboration workflows
